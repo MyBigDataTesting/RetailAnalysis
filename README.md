@@ -1,3 +1,6 @@
 # RetailAnalysis
 
-#Adding a new feature-Feature1
+<<<<<<< HEAD
+#Learning github
+=======
+
